@@ -1,0 +1,241 @@
+What is your name?
+How are you today?
+What is AI?
+Tell me a joke.
+What is love?
+Where is the Eiffel Tower?
+How does gravity work?
+Why is the sky blue?
+Who invented the internet?
+How do airplanes fly?
+What is photosynthesis?
+What is the speed of light?
+Who wrote Harry Potter?
+What is the capital of Japan?
+How do fish breathe?
+What is 2 + 2?
+Who discovered electricity?
+Why do cats purr?
+How do magnets work?
+What is the Big Bang?
+Who was Albert Einstein?
+How do birds fly?
+What is cryptocurrency?
+Why do leaves change color?
+What is a black hole?
+Who painted the Mona Lisa?
+Why is water wet?
+How do volcanoes erupt?
+What is quantum physics?
+What is machine learning?
+What is the stock market?
+How does Wi-Fi work?
+Why do we dream?
+How do plants grow?
+What is DNA?
+Who is the richest person?
+What is blockchain?
+What is the fastest animal?
+What is a solar eclipse?
+Why do we yawn?
+How do you bake bread?
+What is the tallest mountain?
+How do submarines work?
+What is climate change?
+What is artificial intelligence?
+Why do we sneeze?
+Who is the president of USA?
+What is the meaning of life?
+How does the internet work?
+What is the best-selling book?
+How do vaccines work?
+Why do dogs wag tails?
+What is the largest ocean?
+How do batteries work?
+Why do people get hiccups?
+What is human evolution?
+Who is the fastest runner?
+What is the hardest material?
+What is the coldest place?
+How do computers store data?
+What is the deepest ocean?
+Who is the strongest superhero?
+How do birds migrate?
+What is the rarest animal?
+How do you make coffee?
+What is the best diet?
+Who is the most famous actor?
+What is an earthquake?
+How does the sun produce energy?
+What is the longest river?
+How do ants communicate?
+What is the driest desert?
+How do you solve a Rubik's Cube?
+What is the best-selling car?
+How do you build a rocket?
+Who was the first astronaut?
+What is the best programming language?
+How do jellyfish sting?
+What is the oldest city?
+How do chameleons change color?
+What is a rainbow?
+Why do bees make honey?
+What is the fastest car?
+How do whales communicate?
+What is the most expensive painting?
+Who invented the telephone?
+How do octopuses camouflage?
+What is the safest country?
+How does a compass work?
+What is the smallest country?
+How do you make a pizza?
+What is the most dangerous animal?
+Who was the first president?
+How do owls see at night?
+What is the loudest sound?
+Who invented the computer?
+What is a tornado?
+How do submarines navigate?
+What is the best-selling video game?
+How do dolphins sleep?
+What is the most popular sport?
+What is the softest animal?
+Who was the first human?
+How do you make ice cream?
+What is the heaviest animal?
+Who invented the light bulb?
+How do you tie a tie?
+What is the most visited city?
+How do you whistle?
+What is the most expensive metal?
+Who invented television?
+How do you boil an egg?
+What is the fastest train?
+Who discovered America?
+How do you swim?
+What is the largest planet?
+How do you do CPR?
+What is the rarest gemstone?
+What is the healthiest fruit?
+How do you ride a bike?
+What is the lightest gas?
+How do you filter water?
+What is the longest bridge?
+How do rockets launch?
+What is the warmest sea?
+What is the best smartphone?
+How do sharks breathe?
+Who was the first pilot?
+What is the most beautiful flower?
+How do you plant a tree?
+What is the hardest language?
+Who was the first scientist?
+How do clouds form?
+What is the hottest planet?
+How do you make a paper airplane?
+What is the oldest language?
+What is the best-selling album?
+How do you make a paper boat?
+What is the best-selling movie?
+Who is the tallest person?
+How do cats land on feet?
+What is the best-selling toy?
+Who is the most famous singer?
+What is the deepest lake?
+How do you train a dog?
+What is the fastest bird?
+How do fingerprints form?
+What is the largest island?
+What is the biggest fish?
+Who wrote Romeo and Juliet?
+What is the oldest tree?
+What is the largest animal?
+What is the smallest animal?
+What is the best-selling smartphone?
+How do airplanes stay in air?
+What is the most famous painting?
+How do you solve a mystery?
+What is the longest word?
+What is the most intelligent animal?
+Who discovered the moon?
+What is the coldest planet?
+Who built the Great Wall?
+How do snails move?
+What is the biggest volcano?
+What is the deepest cave?
+What is the longest movie?
+What is the smallest bone?
+What is the strongest muscle?
+What is the largest desert?
+Who invented the car?
+What is the brightest star?
+What is the fastest roller coaster?
+What is the rarest fish?
+What is the oldest book?
+What is the biggest continent?
+What is the tallest waterfall?
+What is the loudest animal?
+Who built the pyramids?
+What is the rarest flower?
+What is the most expensive car?
+How do bees see?
+What is the longest marathon?
+What is the strongest earthquake?
+Who discovered oxygen?
+What is the darkest place?
+What is the softest material?
+How do bats see in dark?
+What is the tallest tree?
+What is the fastest insect?
+How do crabs walk?
+What is the smallest fish?
+Who invented the microscope?
+What is the rarest bird?
+What is the longest tunnel?
+What is the largest bird?
+What is the best-selling console?
+What is the largest bone?
+How do penguins stay warm?
+What is the smallest country?
+Who is the most powerful person?
+How do turtles breathe?
+What is the most expensive city?
+Who is the most famous scientist?
+What is the heaviest object?
+What is the best ice cream flavor?
+What is the smallest flower?
+What is the best-selling shoe?
+What is the fastest growing plant?
+Who invented paper?
+How do camels survive in desert?
+What is the smallest mammal?
+What is the largest reptile?
+What is the best-selling perfume?
+How do frogs breathe?
+What is the longest coastline?
+What is the rarest metal?
+Who discovered gravity?
+What is the most expensive gemstone?
+What is the fastest swimming fish?
+What is the oldest coin?
+How do wolves communicate?
+What is the best-selling comic?
+What is the rarest butterfly?
+What is the biggest number?
+Who was the youngest president?
+What is the strongest wind?
+What is the most expensive food?
+Who is the greatest athlete?
+What is the most famous monument?
+What is the hardest substance?
+Who discovered Antarctica?
+What is the smallest reptile?
+How do crocodiles swim?
+What is the biggest star?
+How do owls hunt?
+What is the longest animal?
+What is the best-selling drink?
+What is the rarest cat?
+Who discovered fire?
+What is the most poisonous snake?
+What is the biggest library?
